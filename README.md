@@ -4,8 +4,8 @@ This program allows users to input clock-in and clock-out times for hourly pay. 
 
 # Environment
 
-*REPL
-*Python 3.8.2
+* REPL
+* Python 3.8.2
 
 # Execution
 
