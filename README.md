@@ -10,14 +10,13 @@ This program allows users to input clock-in and clock-out times for hourly pay. 
 # Execution
 
 to run program: main.py
-
 click run at the top of the repl page
 
 ![Run Program Screenshot](Screenshot2.jpg)
 
 # Screenshots
 
-![Program Screenshot](Screenshot2.jpg)
+![Program Screenshot](Screenshot1.jpg)
 
 # Resources
 
