@@ -1,6 +1,6 @@
 # Overview
 
-This program allows users to input clock-in and clock-out times for determining hourly pay.  It demonstrates the use of objects, variables, and more.
+This program allows users to input clock-in and clock-out times for determining hourly pay.  It demonstrates the use of objects, variables, expressions, conditionals, loops, functions, objects and classes.  Inheritance is used to form a Overtime_Card class from the Time_Card class for a boosted hourly rate.
 
 # Environment
 
