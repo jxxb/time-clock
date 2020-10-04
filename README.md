@@ -13,7 +13,7 @@ to run program: main.py
 
 click run at the top of the repl page
 
-![Program Screenshot](Screenshot 2020-10-03 200310.jpg)
+![Program Screenshot](Screenshot2.jpg)
 
 #Screenshots
 
