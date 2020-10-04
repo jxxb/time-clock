@@ -1,6 +1,6 @@
 # Overview
 
-This program allows users to input clock-in and clock-out times for hourly pay.  It demonstrates the use of objects, variables, and more.
+This program allows users to input clock-in and clock-out times for determining hourly pay.  It demonstrates the use of objects, variables, and more.
 
 # Environment
 
