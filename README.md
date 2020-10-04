@@ -20,6 +20,6 @@ click run at the top of the repl page
 
 # Resources
 
-https://data-flair.training/blogs/python-project-ideas
-https://www.educba.com/do-while-loop-in-python/
-https://docs.python.org/3/library/index.html
+* https://data-flair.training/blogs/python-project-ideas
+* https://www.educba.com/do-while-loop-in-python/
+* https://docs.python.org/3/library/index.html
